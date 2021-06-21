@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
+          "version": "5.4.3"
+        }
+      },
+      {
+        "package": "CodableAlamofire",
+        "repositoryURL": "https://github.com/Otbivnoe/CodableAlamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "a4313aa4bc09c09703f7ba71ab1300059abbde24",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
